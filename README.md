@@ -1,4 +1,4 @@
-# AI Scanner
+# AutoRecon-AI
 
 An intelligent, AI-assisted reconnaissance tool designed for Capture The Flag (CTF) challenges. This Python script automates the initial enumeration phase by chaining tools (Nmap, Gobuster, Nikto) dynamically based on OpenAI's real-time analysis of the target.
 
