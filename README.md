@@ -14,7 +14,7 @@ An intelligent, AI-assisted reconnaissance tool designed for Capture The Flag (C
 1. Clone the repository:
    ```bash
    git clone https://github.com/Augustin-Br/ai-scanner.git
-   cd ctf-ai-scanner
+   cd ai-scanner
    ```
 
 2. Create a virtual environment and install dependencies:
