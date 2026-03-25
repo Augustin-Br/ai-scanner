@@ -13,8 +13,8 @@ An intelligent, AI-assisted reconnaissance tool designed for Capture The Flag (C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Augustin-Br/ai-scanner.git
-   cd ai-scanner
+   git clone https://github.com/Augustin-Br/AutoRecon-AI.git
+   cd AutoRecon-AI
    ```
 
 2. Create a virtual environment and install dependencies:
