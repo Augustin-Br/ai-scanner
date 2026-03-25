@@ -1,4 +1,15 @@
+# --- LLM & Agent Framework ---
+langchain-openai
+langchain-core
+langgraph
+
+# --- Data Validation ---
+pydantic
+typing-extensions
+
+# --- Security & Network Tools ---
 python-nmap
-openai
-python-dotenv
 requests
+
+# --- Environment Management ---
+python-dotenv
